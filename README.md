@@ -80,11 +80,23 @@ There is currently no major version released. Therefore, minor version releases 
 
 See CHANGELOG.md or Releases for more information about the changes.
 
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/theovassiliou/sweap-google-sheets-example/tags).
+
+## Authors
+
+- **Theo Vassiliou** - *Initial work* - [Theo Vassiliou](https://github.com/theovassiliou)
+  
 ## Original Documentation
 
 The official documentation of the REST API can be found at <https://documenter.getpostman.com/view/5746225/UVBzmp2n#defe4351-fb75-4d87-a73f-b9e8f0d843c2>
 
-## Inspiration
+## Inspiration and Acknowledgments
 
-This example has been inspired by the awesome [google-sheets-example](https://github.com/DeepLcom/google-sheets-example) by DeepL. Thanks a lot, folks.
-We have adopted the example by using OAuth2 instead of Basic Authentication.
+* This example has been inspired by the awesome [google-sheets-example](https://github.com/DeepLcom/google-sheets-example) by DeepL. Thanks a lot, folks. We have adopted the example by using OAuth2 instead of Basic Authentication.
+* [PurpleBooth](https://gist.github.com/PurpleBooth) for the well motivated [README-template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
