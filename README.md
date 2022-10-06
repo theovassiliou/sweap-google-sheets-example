@@ -98,5 +98,6 @@ The official documentation of the REST API can be found at <https://documenter.g
 
 ## Inspiration and Acknowledgments
 
-* This example has been inspired by the awesome [google-sheets-example](https://github.com/DeepLcom/google-sheets-example) by DeepL. Thanks a lot, folks. We have adopted the example by using OAuth2 instead of Basic Authentication.
-* [PurpleBooth](https://gist.github.com/PurpleBooth) for the well motivated [README-template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+- This example has been inspired by the awesome [google-sheets-example](https://github.com/DeepLcom/google-sheets-example) by DeepL. Thanks a lot, folks. We have adopted the example by using OAuth2 instead of Basic Authentication.
+- [PurpleBooth](https://gist.github.com/PurpleBooth) for the well-documented Contributing template
+- The team from [Sweap.io](sweap-io) which builds an incredible event management app
