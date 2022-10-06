@@ -94,7 +94,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
   
 ## Original Documentation
 
-The official documentation of the REST API can be found at <https://documenter.getpostman.com/view/5746225/UVBzmp2n#defe4351-fb75-4d87-a73f-b9e8f0d843c2>
+The official documentation of the REST API can be found [here](https://documenter.getpostman.com/view/5746225/UVBzmp2n#defe4351-fb75-4d87-a73f-b9e8f0d843c2)
 
 ## Inspiration and Acknowledgments
 
